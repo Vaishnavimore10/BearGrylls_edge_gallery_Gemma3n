@@ -1,0 +1,1082 @@
+[
+    {
+      "main_category": "building traps",
+      "sub_category": "basic snare trap",
+      "tips": "Use a noose and tension to catch small animals.",
+      "instruction": "Use cord or wire to create a noose. Tie it to a bent sapling under tension. Trigger it with a stick holding the sapling down. Place on animal trails."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "deadfall trap",
+      "tips": "Use a heavy object to crush prey when bait is disturbed.",
+      "instruction": "Use a flat rock or log as weight. Prop it with a trigger stick and bait. When animal moves the bait, the weight falls and kills it."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "figure-four deadfall",
+      "tips": "A mechanical stick-based trigger system to drop weight.",
+      "instruction": "Use three sticks carved to fit into a figure-four shape. Place bait on the trigger. When disturbed, the weight collapses on the target."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "spring snare trap",
+      "tips": "Bend a sapling to provide snapping force to lift prey.",
+      "instruction": "Tie a noose to a bent sapling. Use a trigger mechanism (like a peg in the ground). Place bait around it. When triggered, sapling yanks the prey upward."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "pitfall trap",
+      "tips": "Use a concealed hole to trap larger animals.",
+      "instruction": "Dig a deep pit along a known animal path. Cover it with weak branches, leaves, and soil to camouflage. Line bottom with spikes if necessary."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "basket fish trap",
+      "tips": "Funnel-shaped traps catch fish automatically.",
+      "instruction": "Weave a cone or funnel-shaped basket from vines. Place bait inside. Submerge in water facing upstream. Fish swim in but cannot swim out."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "rock drop trap",
+      "tips": "Use gravity and bait to crush small game.",
+      "instruction": "Prop a heavy rock at an angle using a baited trigger stick. When the bait is moved, the rock falls on the animal."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "tension snare with toggle",
+      "tips": "A toggle stick increases stability and speed.",
+      "instruction": "Use a toggle stick tied to the snare and sapling. When triggered, the toggle releases and the sapling snaps upward, tightening the noose."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "drag noose trap",
+      "tips": "Prey pulls trap and gets caught in brush.",
+      "instruction": "Tie a noose to a heavy drag (like a log). Bait the snare on a trail. When triggered, the animal drags the weight and gets tangled in the forest."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "spear trap (caution)",
+      "tips": "Trigger releases a swinging or falling spear.",
+      "instruction": "Sharpen stakes. Tie them to a bent sapling or raised mechanism. Use a sensitive trigger with bait. Be extremely cautious when setting this trap."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "net trap",
+      "tips": "Drop net captures multiple birds or animals.",
+      "instruction": "Weave a loose net. Suspend above baited area. Trigger releases net from above. Weighted corners help it drop and secure prey."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "bottle fish trap",
+      "tips": "Plastic bottle works for small fish.",
+      "instruction": "Cut off the top of a plastic bottle and insert it inverted to create a funnel. Add bait. Submerge in shallow water. Fish enter but can’t escape."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "tripwire snare",
+      "tips": "Animal movement activates the trap.",
+      "instruction": "Set a horizontal tripwire along trail. Connect to a tensioned sapling with a snare. Movement triggers the spring and snares the legs."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "glue trap (natural)",
+      "tips": "Use sticky sap to catch insects or small animals.",
+      "instruction": "Spread pine sap on a bark plank. Place bait in the center. Insects or lizards walk over it and get stuck. Monitor frequently."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "rock corridor trap",
+      "tips": "Guide prey into trap using natural barriers.",
+      "instruction": "Use rocks or logs to create a V-shaped corridor. Place snare or deadfall at the narrow end. Animals follow natural path into trap."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "fish corral trap",
+      "tips": "Guide fish into a narrow exitless area.",
+      "instruction": "Place rocks or sticks in shallow water to form a circular or U-shaped barrier. Fish enter but cannot find exit. Catch them by hand or net."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "simple bird snare",
+      "tips": "Catch birds using bait and a foot snare.",
+      "instruction": "Tie a thin noose around bird bait. Anchor the string to a stake. Hide in brush. When bird pecks, its feet get caught."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "rat trap (with bottle)",
+      "tips": "Use common litter as trap material.",
+      "instruction": "Use a plastic bottle balanced on a stick with bait inside. When rat enters, the bottle falls and traps it. Add weight to secure."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "tension spike pit (advanced)",
+      "tips": "Combines a spring trap and pitfall.",
+      "instruction": "Dig pit, add sharpened stakes, and cover. Triggered by snare or spring mechanism that ensures animal falls directly into trap."
+    },
+    {
+      "main_category": "building traps",
+      "sub_category": "funnel bird trap",
+      "tips": "Birds walk into narrow tunnel to feed.",
+      "instruction": "Make a funnel out of sticks leading to a baited basket. Narrow end prevents escape. Cover with brush to blend into surroundings."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "improvised hammer",
+      "tips": "Use dense rocks and wood.",
+      "instruction": "Find a palm-sized heavy rock with a flat edge. Bind it to a stick using rope, shoelaces, or vines to create a hammer."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "makeshift axe",
+      "tips": "Stone blades can replace metal.",
+      "instruction": "Break a stone to create a sharp edge. Use vine or cloth to attach it to a sturdy stick. Sharpen regularly."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "rope from natural fibers",
+      "tips": "Use bark, vines, or dry grass.",
+      "instruction": "Strip bark or use long grasses. Twist individual strands tightly, then twist two or more strands together in the opposite direction for strength."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "drilling tool",
+      "tips": "Use fire-hardened stick.",
+      "instruction": "Sharpen a stick and harden the tip by lightly charring it in a fire. Use it with steady pressure and twisting to bore holes into wood."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "digging stick",
+      "tips": "Harden tip with fire.",
+      "instruction": "Find a thick, sturdy stick. Sharpen the end and place it near a fire to strengthen the tip. Use for digging roots or holes."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "binding clamp",
+      "tips": "Use forked branches.",
+      "instruction": "Use a Y-shaped branch and lash it around materials to hold them tightly in place while building or gluing."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "charcoal glue",
+      "tips": "Mix pine resin and charcoal.",
+      "instruction": "Heat pine sap until liquid, mix with crushed charcoal and a bit of powdered plant fiber. Use as an adhesive for stone and wood tools."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "natural nails or pegs",
+      "tips": "Sharpen sticks or bones.",
+      "instruction": "Carve small sticks or animal bones into pointed pegs. Use them to fasten materials by driving into pre-drilled holes."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "improvised saw",
+      "tips": "Use stone flakes or metal scrap.",
+      "instruction": "Find sharp stone shards or jagged scrap metal. Use repetitive motion across wood to slowly saw through material."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "lashings from clothing",
+      "tips": "Tear cloth into strips.",
+      "instruction": "Use strips of t-shirt, jeans, or socks as lashings to bind structures or hold tools together."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "clay for sealing gaps",
+      "tips": "Use wet clay as filler.",
+      "instruction": "Collect clay from riverbanks. Mold and press it into joints of shelters or containers to seal cracks and keep out water or wind."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "bamboo as multi-tool",
+      "tips": "Bamboo is hollow and strong.",
+      "instruction": "Cut bamboo segments for containers, funnels, or pipe sections. Sharpen edges to use as blades or spikes."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "wooden mallet",
+      "tips": "Use thick branches.",
+      "instruction": "Find a thick, dense branch and carve a handle. Use it to pound stakes, break nuts, or shape wood."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "fishbone drill",
+      "tips": "Fishbones are sharp and strong.",
+      "instruction": "Select a thick, sharp fishbone. Bind it to a stick and use for drilling or piercing thin materials."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "bark container",
+      "tips": "Use tree bark to create vessels.",
+      "instruction": "Peel bark in large sheets. Fold and bind corners using cord or vines to make waterproof containers."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "spear from tree branch",
+      "tips": "Sharpen and fire-harden tip.",
+      "instruction": "Sharpen one end of a straight, thick branch. Hold it near a flame to harden and sterilize. Use for defense or hunting."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "hook from metal scrap",
+      "tips": "Bend small scrap into hook.",
+      "instruction": "Find wire, clips, or metal bits. Use rock or leverage to bend into a fishhook or latching hook shape."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "lever from log",
+      "tips": "Leverage heavy objects.",
+      "instruction": "Use a long sturdy branch or pole with a fulcrum (rock or log) to lift or move heavy objects safely."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "needle from thorn or bone",
+      "tips": "Thin bones or cactus thorns can be sharpened.",
+      "instruction": "Sharpen one end of a bone splinter or thorn. Use fire or stone to punch an eye hole. Use to sew clothing or stitch wounds with plant fibers."
+    },
+    {
+      "main_category": "building_tools",
+      "sub_category": "portable tripod",
+      "tips": "Use three sticks and cordage.",
+      "instruction": "Lash three long sticks together at the top. Use as a stand for cooking pots, shelter frame, or drying rack."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use a Ferro Rod",
+      "tip": "Striking a ferro rod creates hot sparks to ignite tinder.",
+      "instruction": "Hold the ferro rod near a pile of dry tinder (like cotton, bark shavings, or dry grass). Firmly scrape a steel striker or the back of a knife down the rod at a sharp angle. Direct the sparks into the tinder until it catches."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Fire with Glasses",
+      "tip": "Use prescription glasses to focus sunlight.",
+      "instruction": "Place a dry piece of tinder (cotton, leaves, or toilet paper) on the ground. Angle the lens to focus a small beam of sunlight on the tinder until it starts to smoke. Hold steady for 20–40 seconds. Blow gently to ignite flame."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Battery and Steel Wool",
+      "tip": "Shorting a battery with steel wool ignites it.",
+      "instruction": "Stretch steel wool to increase surface area. Rub both ends of a 9V or AA battery across the wool. Sparks will form and ignite it. Immediately transfer to a tinder nest. Use caution—this ignites very fast."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Flint and Steel",
+      "tip": "Striking steel against flint generates sparks.",
+      "instruction": "Hold flint firmly and strike it with carbon steel at a sharp angle. Catch the spark in char cloth or dry moss. Once it smolders, blow gently and add dry twigs or kindling."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Make a Bow Drill",
+      "tip": "Friction from a bow drill can create an ember.",
+      "instruction": "Carve a spindle, hearth board, and bow. Loop the bow string around the spindle. Press down with a handhold and saw the bow rapidly. Smoke and a small coal will form in the notch—transfer it to dry tinder."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use a Lighter (If Available)",
+      "tip": "A simple lighter is the fastest fire starter.",
+      "instruction": "If you have a lighter, gather a tinder bundle and ignite it directly. Shield the flame from wind using your hand or body. Even if the lighter is out of fuel, it can still spark dry material."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Fire Plough Method",
+      "tip": "Rubbing a stick against a groove creates heat and an ember.",
+      "instruction": "Carve a shallow groove in a softwood plank. Rub a hardwood stick rapidly along the groove. After several minutes, fine wood dust at the end will smolder. Drop it into tinder and blow gently."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Magnesium Block Fire Starter",
+      "tip": "Magnesium shavings burn extremely hot.",
+      "instruction": "Scrape magnesium into a pile on tinder. Strike the flint edge to ignite it. Magnesium burns over 500°C and can light even damp material."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Car Battery and Jumper Cables",
+      "tip": "Use a car battery to ignite thin wire or steel wool.",
+      "instruction": "Carefully attach jumper cables to a car battery. Use the positive and negative clamps to touch steel wool or foil gum wrapper. It will glow red-hot. Transfer carefully to tinder."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Chapstick and Cotton",
+      "tip": "Greasy chapstick boosts the burn time of cotton.",
+      "instruction": "Apply chapstick to cotton balls or tissue and fluff them. Light with spark or flame. It will burn longer, giving more time to build your fire."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Create a Solar Reflector from a Can",
+      "tip": "A polished soda can base can reflect sunlight.",
+      "instruction": "Polish the inside of a soda can with chocolate, toothpaste, or clay. Angle it toward the sun and place tinder at the focal point. The beam will heat and ignite dry material."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use a Broken Headlamp Lens",
+      "tip": "Turn the concave lens into a magnifier.",
+      "instruction": "If your flashlight or headlamp has a convex lens, remove it. Use it to focus sunlight onto paper or tinder the same way you'd use a magnifying glass."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Char Cloth Creation",
+      "tip": "Turn cloth into ember-catching char using a tin and fire.",
+      "instruction": "Place cotton fabric in a metal tin with a small vent. Heat over a flame for 5–10 minutes until smoke stops. The result is char cloth, ideal for catching sparks from flint and steel."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Tree Resin as Fire Accelerant",
+      "tip": "Resin-rich trees (pine) provide flammable sap.",
+      "instruction": "Collect hardened pine resin or dig into bark to extract sap. Mix with dry tinder or smear onto kindling. It ignites easily and burns longer, even in damp conditions."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Alcohol-Based Hand Sanitizer",
+      "tip": "Hand sanitizer with alcohol ignites easily.",
+      "instruction": "Squirt onto dry leaves or tissue. Use a spark or lighter to ignite. Avoid overuse—it burns clear and hot, which may be hard to see."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite with a Gum Wrapper and Battery",
+      "tip": "Foil gum wrappers can act as a fuse.",
+      "instruction": "Cut a gum wrapper into an hourglass shape. Touch each end to the terminals of a battery (AA or 9V). The middle will ignite due to resistance. Quickly place near tinder."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Dried Animal Dung",
+      "tip": "Dried dung burns slow and steady.",
+      "instruction": "Collect dry herbivore dung (cow, deer, camel). Let it sun-dry if needed. It burns steadily and is great for maintaining a long-lasting fire, especially for cooking."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite Bark Shavings (Birch, Cedar)",
+      "tip": "Certain tree barks are naturally flammable.",
+      "instruction": "Shave thin curls from birch or cedar bark. The oils inside ignite easily. Use with a flint, ferro rod, or spark for quick ignition."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite with Cotton and Crushed Painkillers",
+      "tip": "Some pills contain flammable compounds.",
+      "instruction": "Crush pills like acetaminophen or ibuprofen (not coated). Mix powder with cotton and spark it. Only attempt if safe, and when no other fuel is available."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Dried Grass Braids",
+      "tip": "Twisted grass burns longer than loose bits.",
+      "instruction": "Braid dry grass tightly into a rope. Place it under your fire lay. It burns slowly and can catch a small ember or coal. Ideal for wind protection."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use a Bow Drill",
+      "tip": "Create friction with wood to start a fire.",
+      "instruction": "Carve a spindle and hearth board from dry wood. Use a curved branch and cord to make a bow. Spin the spindle against the board rapidly until an ember forms. Transfer the ember to dry tinder and blow gently."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Fire Plough Method",
+      "tip": "Rub a hardwood stick through a groove in softwood.",
+      "instruction": "Carve a groove in a dry softwood base. Rub a pointed hardwood stick rapidly along the groove. Fine wood dust will collect and eventually ignite from friction heat. Transfer the ember to dry tinder."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Hand Drill Method",
+      "tip": "Spin a stick between your palms to generate heat.",
+      "instruction": "Place a dry spindle vertically on a hearth board. Roll it between your palms, applying downward pressure. When smoke appears, catch the ember in dry tinder and blow into flame. Works best with dry weather and soft woods."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Flint Rock and Carbon Steel",
+      "tip": "Strike flint and steel to create sparks.",
+      "instruction": "Find a hard quartz or flint stone. Strike it with carbon steel, such as a knife spine or broken tool. Catch sparks on dry tinder like fungus, bark, or charred cloth."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Dry Grass Braids",
+      "tip": "Braided grass burns longer than loose pieces.",
+      "instruction": "Twist dry grass into a thick braid. Place it beneath your fire lay. It will catch embers and provide a slow, steady flame, ideal for starting larger fires."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Eyeglasses as a Magnifier",
+      "tip": "Lens can concentrate sunlight to ignite tinder.",
+      "instruction": "Hold the convex lens from eyeglasses above dry tinder. Angle it to focus a small point of light. Hold steady until it smokes. Gently blow to ignite."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use a Lighter (Even Empty)",
+      "tip": "An empty lighter can still spark.",
+      "instruction": "Flick the lighter repeatedly to produce sparks onto fine, dry tinder like lint or feathered bark. The spark can be enough to ignite if material is dry and fluffy."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite with Sunlight and Plastic Bottle",
+      "tip": "Use water-filled bottle as a magnifying lens.",
+      "instruction": "Fill a clear plastic bottle with water. Angle it over dry tinder like a magnifying glass. Adjust the beam to concentrate sunlight. Hold until tinder begins smoking."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Pocket Lint as Tinder",
+      "tip": "Lint is dry, flammable, and easy to carry.",
+      "instruction": "Collect lint from pockets, socks, or clothing seams. Fluff it to increase surface area. Combine with sparks or flame from lighter, ferro rod, or battery."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Bark Shavings",
+      "tip": "Oily bark burns even when slightly damp.",
+      "instruction": "Shave curls from birch or cedar bark. Pile into a nest and ignite with sparks or lens. The oils inside these barks help sustain fire."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Tree Fungus Ember Catch",
+      "tip": "Dry fungus can hold an ember for minutes.",
+      "instruction": "Find hoof-shaped or bracket fungus growing on trees. Dry it out near a flame. Catch sparks or embers on it to transfer slowly to a fire lay."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Preserve Fire with Ember Burial",
+      "tip": "Bury hot coals to keep them overnight.",
+      "instruction": "Before sleeping, bury glowing embers in ash and dry soil. Insulate them from wind and moisture. In the morning, dig them out and blow gently to restart fire."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Pine Resin as Natural Accelerant",
+      "tip": "Resin is sticky and highly flammable.",
+      "instruction": "Collect resin from pine tree wounds. Smear onto twigs or mix with dry leaves. It burns hot and long, useful in damp conditions."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite Abandoned Bird Nests",
+      "tip": "Old nests are made of dry, flammable material.",
+      "instruction": "Find empty bird nests in trees or shrubs. Ensure they're uninhabited. Place beneath your fire lay and ignite with spark or flame. Burns quickly and intensely."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Create Feather Sticks",
+      "tip": "Feather sticks catch flame easily.",
+      "instruction": "Use a knife to shave fine curls from a stick, keeping them attached. Make multiple curls on one end. Use as tinder under your kindling structure."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite with Dry Animal Dung",
+      "tip": "Dung from herbivores burns steadily.",
+      "instruction": "Find sun-dried dung from deer, cows, or camels. Break into chunks. Use as fuel once the fire is started—it smokes but burns long."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Ignite with Charred Wood Chips",
+      "tip": "Charcoal or partially burned wood re-ignites easily.",
+      "instruction": "Collect blackened wood or leftover charcoal from previous fires. Place in tinder bundle and blow gently while sparking to reignite."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Keep Tinder in Waterproof Storage",
+      "tip": "Dry tinder is essential for survival fires.",
+      "instruction": "Store dry materials like bark, lint, and cotton in sealed plastic or waterproof pouches. Keep it on your person. Even a film canister or snack bag works."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Create a Windbreak for Ignition",
+      "tip": "Sheltering fire from wind improves ignition.",
+      "instruction": "Use rocks, logs, or your body to block wind when starting fire. Build a shallow pit or lean fire lay against a natural wall for extra protection."
+    },
+    {
+      "main_category": "Fire",
+      "sub_category": "Use Dry Leaves and Twigs",
+      "tip": "Dry forest litter is excellent kindling.",
+      "instruction": "Collect crunchy, dead leaves and pencil-thin twigs. Create a small teepee or log cabin structure. Light from the bottom with spark, match, or lens."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "foraging wild berries",
+      "tips": "Avoid white or yellow berries, which are often toxic.",
+      "instruction": "Look for dark blue, black, or red berries in shaded areas. Perform the Universal Edibility Test if unsure. Never eat unfamiliar berries without testing."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "hunting small game",
+      "tips": "Traps are more efficient than chasing animals.",
+      "instruction": "Use Y-shaped sticks and paracord (or shoelaces) to make a snare near animal trails. Bait with nuts, fruits, or leftovers. Check traps every few hours."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "fishing without gear",
+      "tips": "Fish gather in shallow waters near sunrise and sunset.",
+      "instruction": "Fashion a spear from a sharpened stick or use your T-shirt as a net. Stand still in shallow water and strike when fish come close."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "eating insects",
+      "tips": "Avoid brightly colored or hairy insects; they're often toxic.",
+      "instruction": "Collect insects like crickets, grasshoppers, or ants. Remove legs/wings if needed. Roast over fire to kill bacteria. Never eat raw."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "using pine trees",
+      "tips": "Parts of pine trees are edible and abundant.",
+      "instruction": "Boil pine needles in water to make tea (vitamin C). Inner bark (cambium layer) can be peeled, roasted, or dried for flour."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "identifying edible plants",
+      "tips": "Use the Universal Edibility Test over 24 hours.",
+      "instruction": "Separate plant into parts. Smell, touch, and taste in small quantities. Wait 8 hours before consuming more. Avoid plants with milky sap or bitter smell."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "making a deadfall trap",
+      "tips": "Effective for small rodents or reptiles.",
+      "instruction": "Prop a flat rock with a stick trigger. Bait with food scraps. When the animal dislodges the stick, the rock falls and kills it."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "digging for edible roots",
+      "tips": "Roots grow near water sources or shaded forest floors.",
+      "instruction": "Use a sharp stick or stone to dig around wild carrots, cattails, or burdock. Always test for edibility before consuming."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "gathering nuts and seeds",
+      "tips": "Rich in fats and proteins.",
+      "instruction": "Look for acorns, walnuts, or sunflower seeds. Boil acorns to remove tannins before eating. Crack and eat inner kernel of safe nuts."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "using saltwater creatures",
+      "tips": "Coastal survival opens up new food options.",
+      "instruction": "Search tide pools for crabs, mussels, or small fish. Boil shellfish thoroughly. Avoid red tides or algae blooms; they are toxic."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "building fish traps",
+      "tips": "Passive fishing saves energy.",
+      "instruction": "Create a V-shaped rock barrier in shallow water. Fish enter at high tide and get trapped as water recedes. Collect by hand or net."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "preserving meat",
+      "tips": "Smoke or dry meat to prevent spoilage.",
+      "instruction": "Cut meat into thin strips. Smoke over a low fire for hours until dry and leathery. Store in cloth away from insects."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "eating tree bark",
+      "tips": "Only inner bark (cambium) is edible.",
+      "instruction": "Peel away outer bark of trees like pine, birch, or aspen. Scrape off soft white layer. Boil, roast, or dry it for nutrition."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "finding mushrooms",
+      "tips": "Most wild mushrooms are dangerous.",
+      "instruction": "Avoid unless 100% certain of edibility. Only consume known safe species like morels or puffballs. When in doubt, leave it out."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "boiling soup from scavenged items",
+      "tips": "Combine various edible finds to stretch food.",
+      "instruction": "Boil roots, greens, and protein like insects or fish in a pot or metal can. Add wild herbs for flavor. Cook thoroughly to kill pathogens."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "catching frogs or toads",
+      "tips": "Only certain species are edible.",
+      "instruction": "Catch near ponds or streams at night with torchlight. Skin and remove organs. Roast over fire. Avoid brightly colored frogs."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "setting bird snares",
+      "tips": "Target ground birds like quail or pigeons.",
+      "instruction": "Use cord and twigs to form noose trap near watering holes. Bait with grain or seeds. Be patient and camouflaged."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "using edible flowers",
+      "tips": "Some flowers offer nutrients and hydration.",
+      "instruction": "Harvest daylilies, violets, or nasturtiums. Rinse in clean water. Eat raw or boil. Avoid flowers with strong odors or milky sap."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "scavenging bird eggs",
+      "tips": "High in protein and easy to cook.",
+      "instruction": "Search trees or rocky ledges at dawn. Take only 1 egg per nest to avoid scaring birds off. Boil or roast before eating."
+    },
+    {
+      "main_category": "food",
+      "sub_category": "using leftovers as bait",
+      "tips": "Use every scrap to maximize survival.",
+      "instruction": "Save bones, skins, or guts. Place in traps or water for fish/lizards. Animals are drawn to strong smells. Rotate bait if it decays."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "use the sun",
+      "tip": "The sun rises in the east and sets in the west",
+      "instruction": "In the morning, face the rising sun to determine east. At noon, shadows point north in the northern hemisphere and south in the southern hemisphere."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "shadow stick method",
+      "tip": "Use a stick and shadow to find cardinal directions",
+      "instruction": "Place a stick upright in the ground. Mark the tip of the shadow. Wait 15 minutes and mark the new position. Draw a line between the two points—this line runs west to east (first mark is west)."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "moss on trees",
+      "tip": "Moss tends to grow on the north side of trees (in the northern hemisphere)",
+      "instruction": "Look for trees with heavier moss growth—north-facing sides receive less sunlight and are cooler and damper. Use this as a general reference, not a sole guide."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "star navigation",
+      "tip": "Use constellations like the Big Dipper or Southern Cross",
+      "instruction": "In the northern hemisphere, find the Big Dipper and follow the line between the 'bowl' stars to Polaris (North Star). In the southern hemisphere, use the Southern Cross to estimate south."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "water flow",
+      "tip": "Rivers generally flow downhill and may lead to civilization",
+      "instruction": "Follow streams or rivers downstream. They often lead to larger water bodies, roads, or human settlements. Be cautious of cliffs or terrain changes."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "tree growth patterns",
+      "tip": "Branches often grow more densely on the southern side (northern hemisphere)",
+      "instruction": "Observe the shape of isolated trees. In the northern hemisphere, south-facing branches receive more sunlight and are often longer and fuller."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "wind direction",
+      "tip": "Local wind patterns may indicate terrain features or ocean proximity",
+      "instruction": "In coastal areas, sea breezes often blow inland during the day. Mountains and valleys may channel winds in predictable directions. Use repeated patterns as a hint."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "observe animal paths",
+      "tip": "Animal trails often lead to water or open areas",
+      "instruction": "Follow clearly defined trails used by wildlife. These can guide you to water sources or open terrain where you may better orient yourself or signal."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "bird flight paths",
+      "tip": "Birds often fly toward water or food sources",
+      "instruction": "In the early morning or late evening, observe bird flight direction. Consistent flight in one direction may indicate water or open land."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "topography awareness",
+      "tip": "Ridges, valleys, and peaks help determine direction",
+      "instruction": "Climb to higher ground when safe. Observe land features—rivers in valleys, ridgelines for clear paths. Avoid descending into deep gullies unless following water."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "tracking your steps",
+      "tip": "Mark your path to avoid walking in circles",
+      "instruction": "Use rocks, sticks, or markings on trees to track direction and prevent backtracking. Create visual cues to mark progress."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "use watch as compass",
+      "tip": "Analog watches can help find north",
+      "instruction": "In the northern hemisphere: point the hour hand at the sun. The midpoint between hour hand and 12 o'clock is south. In the southern hemisphere: point 12 at the sun, midpoint is north."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "man-made features",
+      "tip": "Old fences, power lines, or trails often lead to civilization",
+      "instruction": "If you find fences, clearings, logging trails, or poles, follow them. They usually connect to roads or settlements."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "phone compass (if charged)",
+      "tip": "Use digital compass apps if battery allows",
+      "instruction": "Turn on location or compass app. Use sparingly to conserve battery. Calibrate if needed by rotating device in figure-8 motion."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "sun position and time",
+      "tip": "Knowing time helps interpret sun angle",
+      "instruction": "Estimate time of day. In northern hemisphere: if it's morning, the sun is in the east; evening, in the west. Use this to align general direction."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "improvised compass with magnet and needle",
+      "tip": "Use a magnetized needle and water to find north",
+      "instruction": "Rub a sewing needle on fabric or magnet. Place it on a leaf in still water. It will align north-south. Confirm with sun position if possible."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "use slope direction",
+      "tip": "Slopes may indicate cardinal directions based on sun exposure",
+      "instruction": "In northern hemisphere: south-facing slopes are warmer and have more vegetation. North-facing slopes stay cooler and moister."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "follow insect activity",
+      "tip": "Insects like bees often return to hives near water or trees",
+      "instruction": "Watch flight paths of bees and wasps. They often head in straight lines to nests or water. Don't approach nests—just observe direction."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "use clouds and weather patterns",
+      "tip": "Weather systems move in predictable directions",
+      "instruction": "In many regions, weather moves west to east. Observe cloud motion for hints, but combine with other techniques for accuracy."
+    },
+    {
+      "main_category": "navigation",
+      "sub_category": "listen for human sounds",
+      "tip": "Sound travels farther at night and in open areas",
+      "instruction": "In calm conditions, stop and listen for vehicles, voices, or machinery. Move toward consistent human-made sounds if heard."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "whistle",
+      "tips": "Sound travels farther than shouting",
+      "instruction": "Carry a whistle in your survival kit. Blow three short bursts (standard SOS signal) periodically. Avoid overuse to conserve energy."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "signal_mirror",
+      "tips": "Reflect sunlight to attract attention",
+      "instruction": "Use a mirror or any reflective surface to direct sunlight. Aim flashes toward aircraft or distant locations by forming a 'V' with fingers and flashing between them."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "fire",
+      "tips": "Smoke signals are visible from afar",
+      "instruction": "Create a smoky fire using green leaves or rubber. Build three fires in a triangle pattern if possible to indicate distress."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "bright_clothing",
+      "tips": "Colors contrast against natural surroundings",
+      "instruction": "Wave or hang any bright or unusual clothing from trees or open areas. Orange, red, or white stand out best."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "makeshift_flag",
+      "tips": "Movement and color draw attention",
+      "instruction": "Tie a colored cloth or object to a stick. Wave it periodically or leave it visible from air and ground."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "flashlight",
+      "tips": "Flashing can signal rescuers at night",
+      "instruction": "Use short, controlled bursts of light at regular intervals. Try Morse code SOS (three short, three long, three short)."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "rocks_or_logs_for_signals",
+      "tips": "Simple messages visible from air",
+      "instruction": "Arrange rocks, logs, or heavy items into symbols like 'HELP', arrows, or 'X'. Ensure contrast with ground."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "mobile_phone_with_signal",
+      "tips": "Even low battery can help",
+      "instruction": "Turn on and try emergency calls. Periodically check for signal. Disable other apps to conserve battery."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "gps_emergency_beacon",
+      "tips": "Some watches or GPS devices send location",
+      "instruction": "Activate SOS feature on devices like Garmin InReach or smartwatches. Ensure clear view of sky for signal."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "car_mirror_or_headlight_reflection",
+      "tips": "Cars can be used as large reflective surfaces",
+      "instruction": "Use car parts like mirrors or headlights to reflect light. Position to flash toward likely rescue paths."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "car_horn",
+      "tips": "Can be heard across distances",
+      "instruction": "Use horn at intervals if vehicle is nearby. Three long honks are a known distress signal."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "spray_paint_or_markers",
+      "tips": "Mark trails or signals clearly",
+      "instruction": "Write SOS, arrows, or markers on rocks, trees, or large surfaces using paint or markers. Reapply regularly."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "glow_sticks",
+      "tips": "Visible at night for hours",
+      "instruction": "Crack glow stick and hang from trees or swing to attract attention. Place them in patterns or paths."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "tarp_or_blanket_signals",
+      "tips": "Large flat surfaces attract helicopters",
+      "instruction": "Lay out a contrasting tarp or emergency blanket on open ground in a geometric shape like an arrow or 'X'."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "aluminum_foil",
+      "tips": "Shiny surface is excellent for light reflection",
+      "instruction": "Shape foil into a signaling mirror or stripes. Place in open areas to catch sun and shimmer."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "tree_bark_messages",
+      "tips": "Carved messages can last and signal intent",
+      "instruction": "Use knife or rock to carve 'HELP' or direction arrows into tree bark at eye level along trails."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "heliograph",
+      "tips": "Even small flashes of light can travel far",
+      "instruction": "Use a CD, knife blade, or polished metal to reflect sun. Aim toward aircraft or rescue direction using steady hand."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "trash_or_plastic_debris",
+      "tips": "Urban debris can attract curiosity",
+      "instruction": "Arrange bright or unusual trash in open fields to form signs or symbols. Secure it against wind."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "snow_signals",
+      "tips": "High contrast against white snow",
+      "instruction": "Stomp large letters or arrows into snow. Add debris like pinecones or dirt to enhance visibility."
+    },
+    {
+      "main_category": "rescue_tools",
+      "sub_category": "audio_recording_on_loop",
+      "tips": "Use electronic devices to play messages",
+      "instruction": "If you have a phone or device, record a message and loop it near your camp or trail to alert others passing by."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use Natural Formations",
+      "tips": "Look for caves, overhangs, or hollow trees",
+      "instruction": "Inspect cave or overhang for animal signs (bones, droppings, fur). Avoid narrow caves or ones with strong smells indicating predators. Clear the floor of debris before settling."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Build a Debris Hut",
+      "tips": "Use branches and leaves to create insulation",
+      "instruction": "Find a sturdy branch to act as a ridgepole. Lean smaller branches on each side to form an 'A' frame. Cover with leaves, grass, and moss for insulation. Line inside with soft plant matter."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use a Tarp or Raincoat",
+      "tips": "If you have a tarp or poncho, create a simple lean-to",
+      "instruction": "Tie one side to trees or sticks at shoulder height. Pin down the other side with rocks or logs. Ensure it faces away from the wind."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Snow Cave",
+      "tips": "In snowy conditions, dig a small insulated cave",
+      "instruction": "Find a snowbank. Dig a tunnel and create a dome-shaped area inside. Make a ventilation hole and sleep on a platform raised above the floor to avoid cold sink."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use Fallen Trees",
+      "tips": "Fallen trees with lifted roots provide partial cover",
+      "instruction": "Lean branches against the trunk or exposed roots. Use leaves or moss to insulate. Make sure the structure is stable."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Rocks and Boulders",
+      "tips": "Cluster of boulders can break wind and offer cover",
+      "instruction": "Choose a side sheltered from wind. Fill gaps with branches and moss. Make sure no rock is loose or at risk of falling."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "A-Frame Shelter",
+      "tips": "Classic survival shelter using ridgepole and branches",
+      "instruction": "Find a long ridgepole and support both ends with rocks or Y-shaped sticks. Lean branches symmetrically. Cover with foliage or cloth."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Tree Shelter",
+      "tips": "Large pine trees with thick branches can provide instant cover",
+      "instruction": "Crawl under thick, low-hanging branches. Line the ground with dry needles or leaves for insulation."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use Trash or Found Materials",
+      "tips": "Use plastics, broken tents, or other debris found",
+      "instruction": "Flatten and use plastic sheets for roofing. Secure with rocks or tie to trees. Always inspect for durability and bugs."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Rock Wall Windbreak",
+      "tips": "Build a rock wall to block wind and reflect heat",
+      "instruction": "Stack flat rocks tightly into a low wall around your sleeping area. Place fire in front to reflect warmth."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Swamp or Wet Area Precaution",
+      "tips": "Avoid low ground to prevent flooding and cold",
+      "instruction": "Pick elevated, dry spots even if they require more building effort. Moisture can kill through hypothermia."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Rain Ditch",
+      "tips": "Dig a small trench around your shelter to redirect rainwater",
+      "instruction": "Dig a shallow ditch encircling your shelter slightly downhill to guide water away from sleeping area."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Tree Platform",
+      "tips": "Build a raised platform in areas with predators or flooding",
+      "instruction": "Select a strong tree with branches at safe height. Tie sticks with rope/vine across branches. Use padding and cover overhead."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use a Backpack Frame",
+      "tips": "Turn your backpack frame into a temporary wall or support",
+      "instruction": "Prop it up against a tree or logs. Drape cloth or jacket over it to block wind or rain temporarily."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Bamboo and Vines",
+      "tips": "Use flexible materials to weave walls and roof",
+      "instruction": "Bend thin bamboo and tie together with vines to form a dome. Weave leaves into it for insulation."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Emergency Reflective Blanket",
+      "tips": "Space blankets can reflect body heat",
+      "instruction": "Drape it over a structure or wrap it around yourself. Reflective side inwards traps heat. Avoid direct contact with skin if cold."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Use Clothing Creatively",
+      "tips": "If no cover, make a shade or windbreak with jacket or pants",
+      "instruction": "Tie sleeves or legs to sticks or trees to make a makeshift shield. Insulate your core as much as possible."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Avoid Ridge Tops",
+      "tips": "Avoid building shelter on exposed high areas",
+      "instruction": "Wind is stronger and temperatures drop on ridges. Move downslope near tree clusters for better conditions."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Sun Shelter in Desert",
+      "tips": "Create a shaded shelter to avoid sun exposure",
+      "instruction": "Use clothes or vegetation stretched between rocks or sticks. Dig shallow trench to lie in cooler sand during day."
+    },
+    {
+      "main_category": "shelter",
+      "sub_category": "Thermal Mass Shelter",
+      "tips": "Use large rocks or logs to store and reflect heat at night",
+      "instruction": "Build shelter near sun-warmed rocks. Position your sleeping spot close to them to retain warmth after sunset."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Find Water (via Animal Trails)",
+      "tip": "Follow animal paths to water sources.",
+      "instruction": "Look for narrow, well-trodden paths that cut through vegetation. These often lead to water bodies like rivers or ponds. Common signs include: Hoof prints (deer: heart-shaped; boar: rounded split print), droppings (shiny or moist = recent activity), mud rubbed on trees from animals wallowing. Stay alert during dusk and dawn when animals are active."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Collect Rainwater",
+      "tip": "Use natural surfaces or containers to collect rainfall.",
+      "instruction": "Stretch a clean plastic sheet or tarp between branches with a dip in the middle. Place a stone in the center to funnel water into a container. Alternatively, use large leaves or hollowed-out tree trunks. Always disinfect rainwater stored in open containers."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Locate Water in Valleys",
+      "tip": "Water collects in low-lying areas.",
+      "instruction": "Move downhill. Water follows gravity—search at the base of cliffs, inside ravines, or at the lowest visible point in a landscape. In deserts, look for green vegetation in valleys as signs of underground or seasonal water flow."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Dig for Water (Dry Riverbeds)",
+      "tip": "Dig where the ground is damp.",
+      "instruction": "In a dry stream bed, dig a hole 30–60 cm deep where the sand is still damp. Wait for water to seep in. Line the hole with stones or cloth to reduce sediment. Filter before drinking."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Identify Edible Water-Storing Plants",
+      "tip": "Some plants store drinkable water.",
+      "instruction": "In deserts or dry forests, look for: Cacti (only prickly pear and barrel cacti are safe; avoid toxic ones like the saguaro), Banana plants (cut the trunk and catch water dripping from the stem base), Vines (cut both ends of a vine and hold vertically to drain water). Test any plant by rubbing a small amount on lips and waiting for a reaction."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Collect Dew",
+      "tip": "Use cloth to absorb morning dew.",
+      "instruction": "Before sunrise, tie a clean shirt or bandana to your legs and walk through tall grass or foliage. Wring out the moisture into a container. Avoid grass near roads or contaminated areas."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Solar Still",
+      "tip": "Extract moisture from soil and plants using solar energy.",
+      "instruction": "Dig a hole 45 cm deep and 60 cm wide. Place a container in the center. Fill surrounding space with green vegetation. Cover the hole with plastic sheeting and seal edges with soil. Place a small rock in the center to create a low point. Sun will cause moisture to evaporate and condense, dripping into the container."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Identify Water from Insects",
+      "tip": "Swarming insects can indicate water.",
+      "instruction": "Look for: Bees (travel within 3-5 km from fresh water), Dragonflies (often hover near standing water), Ant trails (can lead to water trapped in tree crevices). Follow insect movement patterns during late morning."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Avoid Contaminated Sources",
+      "tip": "Stagnant or unnatural-looking water can be toxic.",
+      "instruction": "Avoid water with: Dead animals nearby, Oily film, Algae blooms (especially blue-green algae), Foul odor. Even clear water from natural sources should be boiled or purified before consumption."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Make a DIY Filter",
+      "tip": "Filter dirty water using natural materials.",
+      "instruction": "Use a bottle or hollow bamboo. Layer from bottom to top: Gravel, Sand, Charcoal (from burned wood). Pour dirty water through this filter multiple times. Boil afterward to kill pathogens."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Use Bamboo as Water Source",
+      "tip": "Bamboo joints can contain fresh water.",
+      "instruction": "Look for mature green bamboo (not yellowed). Shake or gently cut a segment near the joint. Water collects naturally inside the nodes. Always choose green bamboo growing upright in moist environments. Avoid water from dry or cracked bamboo."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Track Birds to Water",
+      "tip": "Bird flight patterns can lead to water.",
+      "instruction": "Watch for birds flying low and fast at dawn or dusk—they often fly directly to water sources. Pigeons, doves, and parrots especially require daily water. If they circle downward, there's likely a stream or pond nearby."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Melt Ice or Snow Safely",
+      "tip": "Melted snow or ice is a reliable water source.",
+      "instruction": "Never eat snow directly—it lowers your core temperature. Instead, collect clean snow or ice in a container and melt it over a fire or with body heat. Avoid pink/red snow (algae contamination). Filter if it appears dirty or slushy."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Tap Trees for Water",
+      "tip": "Certain trees produce drinkable sap or water.",
+      "instruction": "In early spring, tap trees like birch or maple by boring a small hole at an upward angle. Insert a stick or tubing and collect the slow drip in a container. Tree water is clear, slightly sweet, and safe to drink fresh."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Watch Wind Direction and Mist",
+      "tip": "Mist often forms near water sources.",
+      "instruction": "In the early morning, look for low-lying mist or fog as it tends to hover over lakes, streams, and marshes. Follow the direction of the wind carrying cooler, moist air or sounds of running water (echoing often indicates a stream)."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Harvest Water from Tree Leaves",
+      "tip": "Condensation forms on leaves overnight.",
+      "instruction": "Tie a plastic bag over a leafy branch in the sun. Ensure leaves are inside and the bag is sealed. Over time, condensation collects inside. Use a stick to keep one corner of the bag tilted down into a drip point."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Monitor Cloud Formations",
+      "tip": "Certain clouds indicate incoming rain.",
+      "instruction": "Look for tall, dark cumulonimbus clouds—these often signal imminent thunderstorms. If you’re stranded long-term, prepare containers, dig trenches, or collect bark bowls to capture rainfall before it arrives."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Check Rock Crevices",
+      "tip": "Water may pool in shaded rocks.",
+      "instruction": "Inspect shaded cliffs or rocky outcrops, especially after rain. Look for smooth depressions or crevices where water collects. Use a cloth to soak and wring out water or create a straw from grass to sip directly."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Boil Water Without a Pot",
+      "tip": "Use hot rocks to boil water in non-metal containers.",
+      "instruction": "Fill a wooden bowl, bark container, or carved stone with water. Heat rocks in a fire until red-hot, then use sticks or tongs to place the rocks into the water. Rotate stones to keep the boil going. Always remove ash and sediment before drinking."
+    },
+    {
+      "main_category": "Water",
+      "sub_category": "Use Water-Purifying Plants",
+      "tip": "Certain plants can clarify or purify water.",
+      "instruction": "Crush Moringa seeds and stir into dirty water. Let sit for 30 minutes—sediment and bacteria will bind and settle at the bottom. Pour off clean water carefully. This is not a substitute for boiling but helps reduce turbidity and pathogens."
+    }
+  ]
