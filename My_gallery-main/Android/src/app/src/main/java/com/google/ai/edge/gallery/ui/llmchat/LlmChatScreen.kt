@@ -107,22 +107,32 @@ fun ChatViewWrapper(
   val context = LocalContext.current
   var isBearGryllsMode by rememberSaveable { mutableStateOf(false) }
 
+  // The root Column now controls the overall layout
   Column(modifier = modifier) {
 
-    // Toggle switch UI
-    androidx.compose.foundation.layout.Row(
-      verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+    // --- START OF CHANGES ---
+
+    // NEW: We wrap the toggle switch Row in a Surface to give it a background and elevation.
+    // This makes it stand out and brings it down from the absolute top edge.
+    Surface(
       modifier = Modifier
         .fillMaxWidth()
-        .padding(horizontal = 16.dp, vertical = 8.dp)
+        .padding(horizontal = 8.dp, vertical = 8.dp), // Add some padding around the surface
+      elevation = 2.dp // Give it a slight shadow to lift it off the background
     ) {
-      Text("Bear Grylls Mode", modifier = Modifier.weight(1f))
-      Switch(
-        checked = isBearGryllsMode,
-        onCheckedChange = { isBearGryllsMode = it }
-      )
+      androidx.compose.foundation.layout.Row(
+        verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+        modifier = Modifier
+          .fillMaxWidth()
+          .padding(horizontal = 16.dp, vertical = 4.dp) // Inner padding for the text/switch
+      ) {
+        Text("Bear Grylls Mode", modifier = Modifier.weight(1f))
+        Switch(
+          checked = isBearGryllsMode,
+          onCheckedChange = { isBearGryllsMode = it }
+        )
+      }
     }
-
     // Chat view
     ChatView(
       task = viewModel.task,
