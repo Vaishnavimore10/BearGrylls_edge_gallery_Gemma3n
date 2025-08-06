@@ -20,13 +20,6 @@ This project was built to explore the capabilities of running large language mod
 *   **Hugging Face Integration:** Uses OAuth to authenticate with Hugging Face for downloading gated models.
 *   **Modern Android Tech Stack:** Built with Kotlin, Jetpack Compose, Coroutines, and Hilt for dependency injection.
 
-## 📸 Screenshots
-
-**(IMPORTANT: Replace these placeholders with your own screenshots!)**
-
-| Chat Screen | Model Management | Bear Grylls Mode |
-| :---: | :---: | :---: |
-| *(Your screenshot of the main chat interface)* | *(Your screenshot of the model download list)* | *(Your screenshot showing the "Bear Grylls Mode on" message)* |
 
 ## 🧠 Architecture: The Two-Model RAG System
 
@@ -85,6 +78,3 @@ This app's core intelligence comes from a powerful two-model system that enables
     *   You may be prompted to log in to Hugging Face.
     *   Download a Gemma model to begin chatting.
 
-## 📂 Project Structure
-
-Here are the key files and directories we created for the core functionality:
