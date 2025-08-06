@@ -20,6 +20,7 @@ import android.graphics.Bitmap
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -118,7 +119,7 @@ fun ChatViewWrapper(
       modifier = Modifier
         .fillMaxWidth()
         .padding(horizontal = 8.dp, vertical = 8.dp), // Add some padding around the surface
-      elevation = 2.dp // Give it a slight shadow to lift it off the background
+      shadowElevation = 2.dp // Give it a slight shadow to lift it off the background
     ) {
       androidx.compose.foundation.layout.Row(
         verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
