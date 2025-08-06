@@ -1,5 +1,12 @@
 # 🤖 AI Survival Guide (Gemma-Powered Android App)
 
+
+
+![Normal Mode](https://github.com/user-attachments/assets/2273010d-96b2-46f5-8fef-c766368c72ae)
+
+![BearGrylls Mode](https://github.com/user-attachments/assets/0271fd19-dcec-49b4-8883-81d2fded0d38)
+
+
 This is a proof-of-concept Android application that demonstrates how to build a sophisticated, on-device AI chat assistant. The app leverages Google's Gemma models and advanced AI techniques like Retrieval-Augmented Generation (RAG) to act as a survival expert, powered by a custom knowledge base.
 
 This project was built to explore the capabilities of running large language models and complex AI pipelines directly on an Android device.
